@@ -1,21 +1,67 @@
-# 💫 About Me:
-🔭 I'm currenly working in Pitaya Tech as development Jr.<br>👯  I'm looking colaborate in code proyects python and Odoo.<br>🤝 I'm looking for help with javascript.<br>🌱 I'm currenly study anthropology in Universidad de San Carlos de Guatemala (USAC).<br>💬 I like carpentry, making my own furniture, aquariums, reading science fiction books <br>and stories about the Mayan culture and also aliens.<br>⚡ I like to practice cycling and cross.
+<div align="center">
 
+# Hey, I'm Mike 👋
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mikealquimia&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mikealquimia&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikealquimia&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Senior Odoo Implementer @ Pitaya Tech** — I make Odoo do what businesses need, then I go build furniture and read about aliens.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mikealquimia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mikealquimia&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ About Me
+
+- 🧩 Senior Odoo Implementer at **Pitaya Tech** — functional + technical implementations
+- 💻 I code Python for fun on the side, mostly small tools and automations
+- 🌱 Not enrolled in anything formal right now — currently in self-taught / "learn by building" mode
+- 🪑 Off-screen: carpentry (I build my own furniture), aquariums, sci-fi novels, Mayan culture & alien theories
+- 🚴 Cycling and cross, whenever the schedule allows it
+- 🤝 Open to collaborating on Python / Odoo projects, and always happy to help with JavaScript questions
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="./profile/stats.svg" />
+<img height="165" src="./profile/top-langs.svg" />
+
+</div>
+
+<div align="center">
+
+<img src="./profile/streak.svg" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="./profile/trophy.svg" alt="trophy" />
+
+</div>
+
+---
+
+<div align="center">
+
+📫 Reach me here on GitHub — always open to talk Odoo, Python, or your favorite alien conspiracy theory.
+
+</div>
