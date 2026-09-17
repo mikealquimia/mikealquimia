@@ -41,13 +41,6 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate trophy card
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: ${{ github.repository_owner }}
-          file: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"

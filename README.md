@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="./profile/trophy.svg" alt="trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mikealquimia&theme=dark&hide_border=true" alt="trophy" />
 
 </div>
 
